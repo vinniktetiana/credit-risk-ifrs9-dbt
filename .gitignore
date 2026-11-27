@@ -228,3 +228,5 @@ logs/
 profiles.yml
 *.json.key
 service-account*.json
+data/
+.venv/
